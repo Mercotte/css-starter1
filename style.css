@@ -1,0 +1,101 @@
+@import url("https://fonts.googleapis.com/css?family=Lato:400");
+
+:root {
+  /*PRIMARY*/
+  --primary-50: #fef4ee;
+  --primary-100: 
+  --primary-200: #fef4ee;
+  --primary-300: #fef4ee;
+  --primary-400: #fef4ee;
+  --primary-500: #fef4ee;
+  --primary-600: #fef4ee;
+  --primary-700: #fef4ee;
+  --primary-800: #fef4ee;
+  --primary-900: #fef4ee;
+  --primary-950: #fef4ee;
+
+  /* grey */
+  --grey-50: hsl(204, 26%, 96%);
+  --grey-100: hsl(207, 22%, 90%);
+  --grey-200: hsl(211, 23%, 82%);
+  --grey-300: hsl(208, 23%, 69%);
+  --grey-400: hsl(210, 22%, 49%);
+  --grey-500: hsl(211, 24%, 43%);
+  --grey-600: hsl(213, 23%, 36%);
+  --grey-700: hsl(216, 20%, 31%);
+  --grey-800: hsl(217, 17%, 27%);
+  --grey-900: hsl(218, 16%, 24%);
+  --grey-950: hsl(221, 21%, 15%);
+
+  /*REST OF COLORS*/
+  --black: #222;
+  --white: #fff;
+  --green-light: #d1e7dd;
+  --green-dark: #0f5132;
+  --red-light: #f8d7da;
+  --red-dark: #842029;
+}
+
+*,
+*::before,
+::after {
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 100%;
+} /*16px*/
+
+body {
+  background: white;
+  font-family: "Lato", sans-serif;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+}
+
+p {
+  margin-bottom: 1rem;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+  margin: 0;
+  margin-bottom: 1.38rem;
+  font-family: "Lato", sans-serif;
+  font-weight: 400;
+  line-height: 1;
+}
+
+h1 {
+  margin-top: 0;
+  font-size: 3.052rem;
+}
+
+h2 {
+  font-size: 2.441rem;
+}
+
+h3 {
+  font-size: 1.953rem;
+}
+
+h4 {
+  font-size: 1.563rem;
+}
+
+h5 {
+  font-size: 1.25rem;
+}
+
+small,
+.text_small {
+  font-size: 0.8rem;
+}
+
+.text {
+  min-width: 40em;
+}
