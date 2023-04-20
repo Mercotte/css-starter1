@@ -2,17 +2,18 @@
 
 :root {
   /*PRIMARY*/
-  --primary-50: #fef4ee;
-  --primary-100: 
-  --primary-200: #fef4ee;
-  --primary-300: #fef4ee;
-  --primary-400: #fef4ee;
-  --primary-500: #fef4ee;
-  --primary-600: #fef4ee;
-  --primary-700: #fef4ee;
-  --primary-800: #fef4ee;
-  --primary-900: #fef4ee;
-  --primary-950: #fef4ee;
+
+  --burnt-sienna-50: #fef2f2;
+  --burnt-sienna-100: #fee2e2;
+  --burnt-sienna-200: #fdcbcb;
+  --burnt-sienna-300: #fba6a6;
+  --burnt-sienna-400: #f67373;
+  --burnt-sienna-500: #ee5959;
+  --burnt-sienna-600: #d92929;
+  --burnt-sienna-700: #b61f1f;
+  --burnt-sienna-800: #971d1d;
+  --burnt-sienna-900: #7d1f1f;
+  --burnt-sienna-950: #440b0b;
 
   /* grey */
   --grey-50: hsl(204, 26%, 96%);
